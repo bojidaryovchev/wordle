@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wordle-dev-122640-authRole",
+      "UnauthRoleArn": "arn:aws:iam::560875410618:role/amplify-wordle-dev-122640-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::560875410618:role/amplify-wordle-dev-122640-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wordle-dev-122640-deployment",
+      "UnauthRoleName": "amplify-wordle-dev-122640-unauthRole",
+      "StackName": "amplify-wordle-dev-122640",
+      "StackId": "arn:aws:cloudformation:us-east-1:560875410618:stack/amplify-wordle-dev-122640/c3d41bf0-97b7-11ec-a406-12ebbfc1c88d",
+      "AmplifyAppId": "do0afs3m3s4su"
+    }
+  }
+}
